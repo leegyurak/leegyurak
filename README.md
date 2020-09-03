@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1>leegyurak Hi there 👋</h1>
+<p>I'm studying <code>Backend, webcrawling and flutter</code></p>
 
-<!--
-**leegyurak/leegyurak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leegyurak)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+<h3>🔭 stacks</h3>
+<ul>
+  <li>python</li>
+  <li>selenium</li>
+  <li>django</li>
+  <li>django-rest-framework</li>
+  <li>postgresql</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3>🌱 I’m currently learning</h3>
+<ul>
+  <li>Ruby on Rails</li>
+  <li>django-channels</li>
+  <li>flutter</li>
+  <li>mongoDB</li>
+  <li>MySQL</li>
+ </ul>
+ 
+<h3>📫 How to reach me</h3>
+<img src="https://camo.githubusercontent.com/174b79ba7296ef95a9730d630353693a8939d834/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d46616365626f6f6b2d3138373766323f7374796c653d666c61742d737175617265266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465266c696e6b3d6868747470733a2f2f7777772e66616365626f6f6b2e636f6d2f70726f66696c652e7068703f69643d313030303438373030303334313335" alt="Facebook Badge" data-canonical-src="https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&amp;logo=facebook&amp;logoColor=white&amp;link=https://www.facebook.com/profile.php?id=100013462594381" style="max-width:100%;">
