@@ -1,5 +1,5 @@
 <h1>leegyurak Hi there 👋</h1>
-<p>I'm studying <code>Backend, webcrawling and flutter</code></p>
+<p>I'm studying <code>Backend, webcrawling and Vue.js</code></p>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leegyurak)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -15,9 +15,8 @@
 
 <h3>🌱 I’m currently learning</h3>
 <ul>
-  <li>Ruby on Rails</li>
-  <li>django-channels</li>
-  <li>flutter</li>
+  <li>Flask</li>
+  <li>Vue.js</li>
   <li>mongoDB</li>
   <li>MySQL</li>
  </ul>
