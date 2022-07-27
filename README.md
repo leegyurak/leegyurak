@@ -16,5 +16,7 @@
 
 
 <h3>🌱 contacts</h3>
-<a href="https://devgyurak.notion.site/devgyurak/17d3629ecdb341f1bef6477ca0e6499b">portfolio</a></br>
-<a href="https://velog.io/@devgyurak.log">blog</a></br>
+<a href="https://devgyurak.notion.site/devgyurak/17d3629ecdb341f1bef6477ca0e6499b">🏢 portfolio</a></br>
+<a href="https://velog.io/@devgyurak">🏦 blog</a></br>
+<a href="https://www.linkedin.com/in/devgyurak">🌃 linkedin</a></br>
+<a href="devgyurak@gmail.com">🚉 email</a>
