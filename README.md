@@ -1,5 +1,5 @@
 <h1>leegyurak Hi there 👋</h1>
-<p>I'm studying <code>Backend</code></p>
+<p>I'm junior <code>Backend</code> developer</p>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leegyurak)](https://github.com/anuraghazra/github-readme-stats)
 
