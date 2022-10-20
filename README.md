@@ -6,15 +6,28 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleegyurak&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <h3>🔭 stacks</h3>
-<ul>
-  <li>python</li>
-  <li>django</li>
-  <li>django-rest-framework</li>
-  <li>mysql</li>
-  <li>AWS</li>
-  <li>postgresql</li>
-  <li>mongodb</li>
-</ul>
+### Back-end
+
+- Python
+- Django (+ DRF)
+- Celery
+- Redis
+- SQL
+- MySQL
+- Pytest
+
+### **General**
+
+- Git
+- GitHub
+- BitBucket
+- Jira
+
+### DevOps
+
+- AWS (EC2, EB, RDS, S3)
+- Docker
+- Nginx
 
 
 <h3>🌱 contacts</h3>
