@@ -11,6 +11,8 @@
 
 - Python
 - Django (+ DRF)
+- FastAPI
+- SQLAlchemy
 - Celery
 - Redis
 - SQL
