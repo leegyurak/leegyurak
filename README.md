@@ -1,40 +1,76 @@
-<h1>leegyurak Hi there 👋</h1>
-<p>I'm junior <code>Backend</code> developer</p>
+# Hello there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leegyurak)](https://github.com/anuraghazra/github-readme-stats)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=leegyurak.leegyurak)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleegyurak&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+```python
+class SoftwareEngineer:
+    def __init__(self) -> None:
+        self.name: str = "이규락"
+        self.role: str = "Software Engineer"
+        self.language_spoken: list[str] = ["ko_KR", "en_US"]
 
-<h2>🔭 stacks</h2>
-
-### Back-end
-
-- Python
-- Django (+ DRF)
-- FastAPI
-- SQLAlchemy
-- Celery
-- Redis
-- SQL
-- MySQL
-- Pytest
-
-### **General**
-
-- Git
-- GitHub
-- BitBucket
-- Jira
-
-### DevOps
-
-- AWS (EC2, EB, RDS, S3)
-- Docker
-- Nginx
+    def introduce(self) -> None:
+        print(f"Hi, I'm {self.name}. Thanks for visiting my Github profile.")
 
 
-<h3>🌱 contacts</h3>
-<a href="https://devgyurak.notion.site/devgyurak/17d3629ecdb341f1bef6477ca0e6499b">🏢 portfolio</a></br>
-<a href="https://velog.io/@devgyurak">🏦 blog</a></br>
-<a href="https://www.linkedin.com/in/devgyurak">🌃 linkedin</a></br>
-🚉 devgyurak@gmail.com
+me: SoftwareEngineer = SoftwareEngineer()
+me.say_hi()
+```
+
+## 📝 Blogs
+
+- Personal website and blog: https://velog.io/@devgyurak
+
+### 📔 Latest Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+- [다신 만나지 말자, 2023년](https://velog.io/@devgyurak/%EB%8B%A4%EC%8B%A0-%EB%A7%8C%EB%82%98%EC%A7%80-%EB%A7%90%EC%9E%90-2023%EB%85%84)
+<!-- BLOG-POST-LIST:END -->
+
+## 🔧 Technologies & Tools
+
+**Programming Languages:**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+**Frameworks:**
+
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+**OS, Deploy:**
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**Databases:**
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+
+<!-- ## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/Zhenye-Na/Zhenye-Na">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhenye-na&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
+</a>
+
+<a href="https://github.com/Zhenye-Na/Zhenye-Na">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhenye-na&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
+</a> -->
+
+
+<!-- ## 🗂️ Highlight Projects
+
+<a href="https://github.com/Zhenye-Na/DA-RNN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=DA-RNN&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+</a>
+
+<a href="https://github.com/Zhenye-Na/crnn-pytorch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=crnn-pytorch&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
+</a> -->
