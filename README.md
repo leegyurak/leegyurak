@@ -15,7 +15,7 @@ class SoftwareEngineer:
 
 
 me: SoftwareEngineer = SoftwareEngineer()
-me.say_hi()
+me.introduce()
 ```
 
 ## 📝 Blogs
