@@ -18,9 +18,10 @@ me: SoftwareEngineer = SoftwareEngineer()
 me.introduce()
 ```
 
-## 📝 Blogs
+## 🖥️ Websites
 
-- Personal website and blog: https://velog.io/@devgyurak
+- Personal portfolio site: https://devgyurak.com
+- Personal blog site: https://velog.io/@devgyurak/posts
 
 ### 📔 Latest Blog posts
 
