@@ -3,19 +3,21 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=leegyurak.leegyurak)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-```python
-class SoftwareEngineer:
-    def __init__(self) -> None:
-        self.name: str = "이규락"
-        self.role: str = "Software Engineer"
-        self.language_spoken: list[str] = ["ko_KR", "en_US"]
+```
+class SoftwareEngineer {
+    val name: String = "이규락"
+    val role: String = "Software Engineer"
+    val languageSpoken: List<String> = listOf("ko_KR", "en_US")
+    
+    fun introduce() {
+        println("Hi, I'm $name. Thanks for visiting my Github profile.")
+    }
+}
 
-    def introduce(self) -> None:
-        print(f"Hi, I'm {self.name}. Thanks for visiting my Github profile.")
-
-
-me: SoftwareEngineer = SoftwareEngineer()
-me.introduce()
+fun main() {
+    val me = SoftwareEngineer()
+    me.introduce()
+}
 ```
 
 ## 🖥️ Websites
@@ -36,6 +38,7 @@ me.introduce()
 **Programming Languages:**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=FF6B35)
 
 **Frameworks:**
 
