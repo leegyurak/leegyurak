@@ -3,7 +3,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=leegyurak.leegyurak)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-```
+```kotlin
 class SoftwareEngineer {
     val name: String = "이규락"
     val role: String = "Software Engineer"
