@@ -74,8 +74,8 @@ fun main() {
 
 ## 🗂️ Highlight Projects
 
-<a href="https://github.com/leegyurak/joatss_backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leegyurak&repo=joatss_backend&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="joatss_backend" />
+<a href="https://github.com/leegyurak/sq3m">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leegyurak&repo=joatss_backend&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="sq3m" />
 </a>
 <a href="https://github.com/leegyurak/mytarot_backend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leegyurak&repo=mytarot_backend&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="joatss_backend" />
