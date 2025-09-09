@@ -74,12 +74,12 @@ fun main() {
 
 ## 🗂️ Highlight Projects
 
-<a href="https://github.com/leegyurak/myunsejeomju">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leegyurak&repo=myunsejeomju&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" 
-alt="myunsejeomju" />
-</a>
-
 <a href="https://github.com/leegyurak/sq3m">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leegyurak&repo=sq3m&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" 
 alt="sq3m" />
+</a>
+
+<a href="https://github.com/leegyurak/myunsejeomju">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leegyurak&repo=myunsejeomju&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" 
+alt="myunsejeomju" />
 </a>
