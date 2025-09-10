@@ -60,26 +60,3 @@ fun main() {
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-
-<!-- ## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/Zhenye-Na/Zhenye-Na">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhenye-na&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
-</a>
-
-<a href="https://github.com/Zhenye-Na/Zhenye-Na">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhenye-na&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
-</a> -->
-
-
-## 🗂️ Highlight Projects
-
-<a href="https://github.com/leegyurak/sq3m">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leegyurak&repo=sq3m&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" 
-alt="sq3m" />
-</a>
-
-<a href="https://github.com/leegyurak/myunsejeomju">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leegyurak&repo=myunsejeomju&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" 
-alt="myunsejeomju" />
-</a>
